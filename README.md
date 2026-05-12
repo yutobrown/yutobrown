@@ -1,100 +1,119 @@
-# Portfolio Template
+# 👋 Hi, I'm Yuto Brown
+**AI-Powered Full Stack Developer | React | Node.js | Python | LLM Integration**  
 
-https://github.com/shaqdeff/Portfolio-Template/assets/92020713/eed76a82-e59d-440b-a04c-a2dc00a508b7
+📍 Tokyo, Japan | ✉️ seimoroiyoto@gmail.com | 🌐 [Portfolio](https://yutobrown.vercel.app) | 🐦 [Twitter](https://twitter.com/vector_ray)
 
-![portfolio-phone](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/e41ed31c-50e5-40d3-a74f-9c0eb053fe7f)
-![portfolio-phone-3](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/e8c23aa7-ac27-48fc-bf66-50ab00e3a64f)
+---
 
-I created this portfolio to use as my own but ended up doing something else entirely. However, instead of keeping it buried, I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own portfolios. Feel free to customize and modify the theme and components to suit your personal style and branding preferences.
+## 💡 About Me
+I build **scalable, AI-enhanced web applications** that solve real-world problems. With 5+ years of experience in full stack development, I combine **modern frontend frameworks**, **robust backend systems**, and **AI integration** to deliver outstanding products.
 
-## License and Attribution
+I help businesses by:
+- Building AI-powered workflows & intelligent search systems  
+- Developing SaaS platforms with real-time collaboration  
+- Optimizing backend performance & ensuring scalable architecture  
+- Mentoring teams in remote environments to maximize impact  
 
-The code in this repository is released under the [MIT](https://github.com/shaqdeff/Portfolio-Template/blob/90213d4887074d1d29434f706afad3d12fa33f5f/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
+> “Building intelligent systems to make life easier, one line of code at a time.”
 
-All projects and experiences included in this portfolio are the result of my own efforts and creativity. Please refrain from presenting them as your own.
+---
 
-## Built With
+## 🛠 Tech Stack
 
-- React.js
-- Three.js
-- Framer Motion
-- TailwindCSS
+### 🔹 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EF4026?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-007ACC?style=for-the-badge&logo=rest-api&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Live Demo
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-- Click [here](https://shaq-portfolio.netlify.app/) to view the live demo.
+### 🔹 Backend & Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Getting Started
+---
 
-To get started with this portfolio template, follow these simple steps:
+## 💼 Professional Experience
+**Wantedly, Inc – AI-Driven Full Stack Developer** | 09/2024 – 10/2025 | Remote  
+- Built **AI-powered web apps** with OpenAI API & LLM automation  
+- Developed SaaS platforms with React, Next.js, Go, Supabase  
+- Integrated **authentication, payment systems, and real-time collaboration**  
+- Optimized rendering & backend scalability  
+- Mentored junior developers in remote teams  
 
-### Prerequisites
+**SmartNews – Senior Full Stack Engineer** | 01/2023 – 08/2024 | Remote  
+- Led full stack development for **high-traffic analytics & content platforms**  
+- Designed RESTful APIs & microservices with Python, FastAPI, AWS  
+- Developed responsive frontend with Next.js & Tailwind CSS  
+- Implemented **automated testing & monitoring**  
 
-Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
+**Mercari – Full Stack Developer** | 04/2021 – 12/2022 | Remote  
+- Built scalable apps with React, TypeScript, Node.js, PostgreSQL  
+- Improved operational efficiency via dashboards & API integrations  
+- Optimized database & caching for better performance  
+- Enhanced CI/CD pipelines using Docker & GitHub Actions  
 
-### Setup
+---
 
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Portfolio-Template/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+## 🎓 Education
+**Osaka University** – Bachelor of Computer Science | 2019 – 2022 | Osaka, Japan  
 
-```
-git clone https://github.com/shaqdeff/Portfolio-Template.git
-```
+---
 
-- Once the files are on your machine, open the **Portfolio-Template** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+## 🚀 Featured Projects
+### **AI Content Generator**
+**Tech Stack:** React, Next.js, OpenAI API, Node.js  
+💡 Automates content creation & workflow tasks using LLMs.  
+[🔗 View Repository](#)
 
-```
-cd Portfolio-Template && code .
-```
+### **SaaS Collaboration Platform**
+**Tech Stack:** React, Go, Supabase, Tailwind CSS  
+💡 Real-time collaboration platform with authentication & payment integration.  
+[🔗 View Repository](#)
 
-## Install
+### **Analytics Dashboard**
+**Tech Stack:** Python, FastAPI, PostgreSQL, AWS  
+💡 High-traffic analytics platform with optimized backend & REST APIs.  
+[🔗 View Repository](#)
 
-- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run the following commands:
+---
 
-```
-npm install
-```
+## 📊 GitHub Stats & Activity
 
-This will install all the packages and dependencies used in the project.
+### Last 30 Days Work
+![Yuto's GitHub Last 30 Days](https://github-readme-activity-graph.vercel.app/graph?username=yutobrown&theme=react-dark&hide_border=true&area=true&range=30)
+![GitHub Streak](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer)
 
-## Usage
+### Overall Stats
+![Yuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutobrown&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yutobrown&layout=compact&theme=radical)
 
-- Run the following command to start a local server:
+---
 
-```
-npm run dev
-```
+## 🤝 Let's Connect
+- 🌐 [Portfolio](https://yutobrown.vercel.app)  
+- 🐦 [Twitter](https://twitter.com/vector_ray)  
+- ✉️ seimoroiyoto@gmail.com  
 
-This will open up the project on a browser on `http://localhost:5173/`
+---
 
-## Build
+## 💼 Why Work With Me?
+- 💻 **Full Stack Expertise:** Frontend, backend, database, cloud  
+- 🤖 **AI & Automation:** LLM integration, workflow automation, intelligent systems  
+- 🚀 **Scalable Solutions:** High-performance, production-ready systems  
+- 🌍 **Remote Collaboration:** Experience leading and mentoring distributed teams  
 
-- To create a production build:
-
-```
-npm run build
-```
-
-- To preview the site as it will appear once deployed:
-
-```
-npm run preview
-```
-
-## Authors
-
-👤 **roman Ndunda**
-
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@romanndunda](https://twitter.com/romanndunda)
-- LinkedIn: [roman Ndunda](https://www.linkedin.com/in/roman-ndunda-b13a95107/)
-
-## Feedback and Contributions
-
-If you have any feedback, suggestions, or would like to contribute to this project, your involvement is highly valued. Feel free to open an [issue](../../issues/) or submit a pull request with your ideas and enhancements. Remember, this template is a starting point, and the true magic lies in making it your own. Enjoy the journey of creating a stunning portfolio that represents your unique talents and accomplishments!
-
-Happy coding and showcasing!
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+> I help clients turn ideas into **AI-enhanced, production-grade applications**.
