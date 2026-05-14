@@ -19,7 +19,7 @@ const Contact = () => {
             Feel free to reach out to me via email or connect on LinkedIn.
           </p>
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:seimoroiyoto@gmail.com"
             className="live-demo flex justify-center sm:gap-4 
             gap-3 sm:text-[20px] text-[16px] text-timberWolf 
             font-bold font-beckman items-center py-5

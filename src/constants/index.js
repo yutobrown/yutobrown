@@ -162,7 +162,7 @@ const experiences = [
     date: 'May 2021 - Oct 2022',
   },
   {
-    title: 'Mid-Level Software Engineer',
+    title: 'Junior Software Engineer',
     company_name: 'At this stage, I started owning full modules and delivering features independently. I focused on writing reusable, maintainable code and improving application performance. I also contributed to architectural discussions and participated in code reviews, helping improve overall code quality within the team.',
     icon: dcc,
     iconBg: '#333333',
